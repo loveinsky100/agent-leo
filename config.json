@@ -1,0 +1,14 @@
+{
+  "host": "0.0.0.0",
+  "port": 9999,
+  "relayPort": [],
+  "protocol": "shadowsocks",
+  "encryption": "aes-256-cfb",
+  "password": "123456",
+  "process": [
+    "encrypt"
+  ],
+  "dnsCacheCapacity": 1000,
+  "writeLimit": 0,
+  "readLimit": 0
+}
